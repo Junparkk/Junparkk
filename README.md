@@ -1,5 +1,7 @@
 
-
+<div align='center'>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Growing up&fontSize=80" />
+</div>
 <div align=center><h2> HYOJUN PARK </h2></div>
 <div align=center><h3> 🙆🏽‍♂️ Think about user experience 👍 </h3></div>
 
@@ -15,7 +17,7 @@
    <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
    <img src='https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101'/>
    <img src='https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white'/>
-  </div>
+</div>
 
 ### ![Clappingmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junparkk&show_icons=true&theme=vue&hide_border=true)
 
