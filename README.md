@@ -17,7 +17,7 @@
    <img src='https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white'/>
   </div>
 
-### ![Clappingmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junparkk&show_icons=true&theme=graywhite&hide_border=true)
+### ![Clappingmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junparkk&show_icons=true&theme=vue&hide_border=true)
 
 
 
